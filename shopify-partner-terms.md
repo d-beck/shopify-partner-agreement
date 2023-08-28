@@ -17,7 +17,7 @@ Unless defined elsewhere in the Agreement, capitalized terms set out in the Agre
 
 **“Development Store”** means a store created in the Partner Dashboard that is used by a Partner for (a) testing purposes, or (b) for the development and transfer of a Merchant Store to a Merchant.
 
-**“Experts Marketplace”** means Shopify’s program for Experts that matches enrolled Experts with Merchants seeking assistance with their business.
+**“Experts Marketplace”** means Shopify’s program for Experts that surfaces Expert profiles on [Experts Marketplace](https://experts.shopify.com/) and may match enrolled Experts with Merchants seeking assistance with their business.
 
 **“Merchant”** means an individual or business that uses the Service to sell products or services.
 
@@ -45,7 +45,7 @@ Unless defined elsewhere in the Agreement, capitalized terms set out in the Agre
     
     d. a **“Payment Gateway Developer”** develops an Application using the Shopify API to enable a payment system for Merchants to use with the Service. An Application developed by a Payment Gateway Developer is a **“Payment Gateway Application”**.
     
-3.  An **“Expert”** is a VAP who has been accepted by Shopify into the [Shopify Experts program](https://experts.shopify.com/), and is listed in the [Shopify Experts Directory](https://experts.shopify.com/sitemap).
+3.  An **“Expert”** is a VAP who has been accepted by Shopify into the [Experts Marketplace](https://experts.shopify.com/), and can publish a profile offering services to Merchants.
     
 4.  A **“Plus Partner”** is a Partner who has met the Shopify Plus Partner criteria and has been accepted by Shopify into the [Shopify Plus Partner Program](https://www.shopify.com/plus/partners), has signed a Plus Partner Program addendum, and is listed on the [shopify.com/plus/partners](https://www.shopify.com/plus/partners).
     
@@ -286,6 +286,8 @@ The failure of any Party to insist upon or enforce strict performance by another
 #### 9.6. Entire Agreement
 
 This Agreement, including any completed application form and all guidelines and other documents linked or otherwise incorporated or referenced in this Agreement, sets forth the entire agreement and supersedes any and all prior agreements, written or oral, of the Parties with respect to the subject matter hereof (including, but not limited to, any prior version of this Agreement). Neither Shopify nor the Partner will be bound by, and each Party specifically objects to, any term, condition or other provision that is different from or in addition to the provisions of this Agreement (whether or not it would materially alter this Agreement) and which is proffered by another Party in any correspondence or other document, unless the Party to be bound thereby specifically agrees to such provision in writing.
+
+This Agreement may be available in languages other than English. To the extent of any inconsistencies or conflicts between this English Agreement and the Agreements available in another language, the most current English version of the Agreement will prevail.
 
 #### 9.7. Assignment
 
@@ -529,14 +531,14 @@ In addition to the terms applicable to all Referral Partners, as set out in [Par
 
 ### 2\. Experts Program
 
-1.  **Program**. A description of the Experts Program is available at: [https://help.shopify.com/partners/faq/experts](https://help.shopify.com/partners/faq/experts) (the **“Experts Program”**). Experts must follow all Shopify guidelines set out here to continue to access the Experts Program.
+1.  **Program**. A description of Experts Marketplace is available at: [https://help.shopify.com/partners/faq/experts](https://help.shopify.com/partners/faq/experts). Experts must follow all Shopify guidelines set out here, as well as [Experts Marketplace Guidelines](https://help.shopify.com/en/partners/selling-services/guidelines) to continue to access the Experts Marketplace.
     
 2.  **Revenue Sharing Plan**. The revenue sharing plan for Experts participating in Experts Marketplace will be as outlined at: [https://help.shopify.com/partners/getting-started/how-to-earn](https://help.shopify.com/partners/getting-started/how-to-earn) (the “Experts Marketplace Revenue Share”).
     
 
 ### 3\. Experts Marketplace
 
-1.  **Marketplace**. Experts may apply to be included in Experts Marketplace. Merchants may submit job requests in the Experts Marketplace (each a “Job Request”). Shopify will match Job Requests from Merchants with Experts. Shopify may suggest multiple Experts to a Merchant in connection with any Job Request.
+1.  **Marketplace**. Experts may apply to be included in Experts Marketplace. Merchants may contact Experts or submit job requests in the Experts Marketplace (each a “Job Request”). Shopify may match Job Requests from Merchants with Experts or suggest multiple Experts to a Merchant in connection with any Job Request. Experts may propose work (submit a proposal) to Merchants that can be accepted to create a job.
     
 2.  **Communications**. Expert acknowledges and agrees that Shopify receives and can review all communications exchanged via the Experts Marketplace or in any reply emails that originate within Experts Marketplace (directly or indirectly) between Expert and Merchant. As a participant in Experts Marketplace, Expert consents to being contacted by Merchants at the email address provided by Expert to Shopify.
     
@@ -594,4 +596,4 @@ In addition to the terms applicable to Developers elsewhere in this Agreement, t
 
 [Create your free partner account today](https://partners.shopify.com/signup)
 
-Last updated January 1, 2021
+Last updated March 26, 2021
