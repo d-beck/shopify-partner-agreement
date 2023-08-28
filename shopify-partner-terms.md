@@ -9,6 +9,14 @@ Unless defined elsewhere in the Agreement, capitalized terms set out in the Agre
 
 **“Application”** or **“App”** is defined in the Shopify API Terms.
 
+**“Associated Developer”** means any individual or entity (i) that, directly or indirectly, Controls an App Developer, is Controlled by an App Developer, or is under another individual’s or entity’s common Control with an App Developer (where **"Control"** means owning 50% or more of the voting rights or ownership interests in the entity); or (ii) is otherwise designated as an Associated Developer of an App Developer through certain other criteria prescribed by Shopify, at its sole discretion, from time to time.
+
+**“Associated Developer Account”** means (i) all Partner Accounts that an App Developer has registered for via the Shopify Developer program page; and (ii) any Partner Account that an Associated Developer of an App Developer has registered for via the Shopify Developer program page.
+
+**"Associated Theme Developer"** means any individual or entity (i) that, directly or indirectly, Controls a Theme Developer, is Controlled by a Theme Developer, or is under another individual’s or entity’s common Control with a Theme Developer (where **“Control”** means owning 50% or more of the voting rights or ownership interests in the entity); or (ii) is otherwise designated as an Associated Developer of a Theme Developer through certain other criteria prescribed by Shopify, at its sole discretion, from time to time.
+
+**“Associated Theme Developer Account”** means (i) all Partner Accounts that a Theme Developer has registered for via the Shopify Developer program page; and (ii) any Partner Account that an Associated Theme Developer of a Theme Developer has registered for via the Shopify Developer program page.
+
 **“Channel Program”** means Shopify’s sales channel program that allows Channel Developers to build a Channel Application using the Sales Channel SDK.
 
 **“Customer”** means any individual that visits or transacts via the Merchant Store.
@@ -17,7 +25,9 @@ Unless defined elsewhere in the Agreement, capitalized terms set out in the Agre
 
 **“Development Store”** means a store created in the Partner Dashboard that is used by a Partner for (a) testing purposes, or (b) for the development and transfer of a Merchant Store to a Merchant.
 
-**“Experts Marketplace”** means Shopify’s program for Experts that matches enrolled Experts with Merchants seeking assistance with their business.
+**“Experts Directory”** means Shopify’s directory of Experts which allows Merchants to browse and contact Experts.
+
+**“Experts Marketplace”** means Shopify’s program for Experts that surfaces Expert profiles on [Experts Marketplace](https://experts.shopify.com/) and may match enrolled Experts with Merchants seeking assistance with their business.
 
 **“Merchant”** means an individual or business that uses the Service to sell products or services.
 
@@ -27,7 +37,7 @@ Unless defined elsewhere in the Agreement, capitalized terms set out in the Agre
 
 **“Merchant Store”** means the Merchant’s commerce presence hosted by Shopify, including their online store and Point of Sale (POS). For clarity, a Merchant may have more than one Merchant Store.
 
-**“Partner”** or **“You”** means an individual or entity that has agreed to the terms of this Agreement and participates in the Shopify Partner Program. The different types of Partners are listed below:
+**“Partner”** or **“You”** means an individual or entity that has agreed to the terms of this Agreement and participates in the Shopify Partner Program. The different types of Partners are listed below and You may qualify as more than one type of Partner concurrently for the purpose of this Agreement, depending on the circumstances:
 
 1.  A **“Referral Partner”** is a Partner who has registered for a Partner Account via the [Shopify partner program page](https://app.shopify.com/services/partners/signup) and who promotes the service by:
     
@@ -35,7 +45,9 @@ Unless defined elsewhere in the Agreement, capitalized terms set out in the Agre
     
     b. acting as a value added partner or **“VAP”** working directly with Merchants as a designer, developer, or other consultant through a Development Store.
     
-2.  A **“Developer”** is a Partner who has registered for a Partner Account via the [Shopify Developer program page](https://partners.shopify.com/signup/developer) and develops Applications or Themes to integrate with the Service or places Ads in the Shopify App Store. The different types of Developers are listed below:
+    c. For the avoidance of doubt, individuals or entities who participate in the Shopify Affiliate Program \[[https://www.shopify.com/affiliates](https://www.shopify.com/affiliates)\] are not Referral Partners in respect of any activities conducted pursuant to the Shopify Affiliate Program. The Shopify Affiliate Program is subject to separate terms and conditions.
+    
+2.  A **“Developer”** is a Partner who has registered for a Partner Account via the [Shopify Developer program page](https://partners.shopify.com/signup/developer) and develops Applications or Themes to integrate with the Service or places Ads in the Shopify App Store. The different types of Developers are listed below and You may qualify as more than one type of Developer concurrently for the purpose of this Agreement, depending on the circumstances:
     
     a. a **“Theme Developer”**, develops a Theme for Merchant use, either as a custom Theme or for general distribution to Merchants through the Shopify Theme Store;
     
@@ -43,9 +55,11 @@ Unless defined elsewhere in the Agreement, capitalized terms set out in the Agre
     
     c. a **“Channel Developer”** develops an Application using the Shopify API to enable Merchants to display, promote and sell Merchant’s products to Customers through Channel Developer’s web or mobile platform (**“Channel Platform”**) via an integration with the Service. An Application developed by a Channel Developer is a **“Channel Application”**; and
     
-    d. a **“Payment Gateway Developer”** develops an Application using the Shopify API to enable a payment system for Merchants to use with the Service. An Application developed by a Payment Gateway Developer is a **“Payment Gateway Application”**.
+    d. a **“Payment Gateway Developer”** develops an Application using the Shopify API to enable a payment system for Merchants to use with the Service. An Application developed by a Payment Gateway Developer is a **“Payment Gateway Integration**.
     
-3.  An **“Expert”** is a VAP who has been accepted by Shopify into the [Shopify Experts program](https://experts.shopify.com/), and is listed in the [Shopify Experts Directory](https://experts.shopify.com/sitemap).
+    e. a **“Payments Developer”** develops an Application using the Shopify API to enable a payment system for Merchants to use with the Service. An Application developed by a Payments Developer is a **“Payments Application”**.
+    
+3.  An **“Expert”** is a VAP who has been accepted by Shopify into the [Experts Marketplace](https://experts.shopify.com), and can publish a profile offering services to Merchants, or is listed as a VAP within the Experts Directory.
     
 4.  A **“Plus Partner”** is a Partner who has met the Shopify Plus Partner criteria and has been accepted by Shopify into the [Shopify Plus Partner Program](https://www.shopify.com/plus/partners), has signed a Plus Partner Program addendum, and is listed on the [shopify.com/plus/partners](https://www.shopify.com/plus/partners).
     
@@ -75,13 +89,17 @@ Unless defined elsewhere in the Agreement, capitalized terms set out in the Agre
 
 A Revenue Generating Activity will be attributed to Partner on the date the Merchant makes the initial payment of subscription fees for the relevant Merchant Store. For more information regarding Revenue Generating Activities, please refer to [https://help.shopify.com/partners/getting-started/how-to-earn](https://help.shopify.com/partners/getting-started/how-to-earn).
 
-**“Service”** means the Shopify hosted commerce platform available via [www.shopify.com](http://www.shopify.com/) and any associated websites, products or services offered by Shopify.
+**“Service”** means the Shopify hosted commerce platform available via [www.shopify.com](https://www.shopify.com) and any associated websites, products or services offered by Shopify.
 
 **“Sales Channel SDK”** means the Shopify APIs that are required by Channel Developer to develop the Channel Application. For the avoidance of doubt, the Sales Channel SDK is deemed to be part of the Shopify API, and access to and use of the Sales Channel SDK is subject to the Shopify API Terms.
 
+**“Sanctions”** means any applicable economic sanctions or anti-terrorism laws or measures of (1) Canada, including the Special Economic Measures Act, the Freezing Assets of Corrupt Foreign Officials Act, the Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law), the United Nations Act, and Part II.1 of the Criminal Code and any regulations or orders issued under the foregoing; (2) the United States, including those imposed, administered, or enforced by the U.S. Department of the Treasury’s Office of Foreign Assets Control and the U.S. State Department; (3) the United Nations Security Council; (4) the European Union; and (5) the United Kingdom, including those imposed, administered, or enforced by Her Majesty’s Treasury.
+
+**“Sanctioned Person”** means any individual or entity listed or designated under Sanctions or located or resident in or organized under the laws of a country or territory that is the subject of comprehensive territorial Sanctions, or any entity directly or indirectly owned or controlled by one or more of the foregoing.
+
 **“Shopify API”** is defined in the Shopify API Terms. “Shopify API Terms” means the Shopify API License and Terms of Use available at [shopify.com/legal/api-terms](https://www.shopify.com/legal/api-terms).
 
-**“Shopify App Store”** is where Merchants can view and install Apps on their Merchant Store, and is available through: [apps.shopify.com](https://apps.shopify.com/).
+**“Shopify App Store”** is where Merchants can view and add Apps on their Merchant Store, and is available through: [apps.shopify.com](https://apps.shopify.com).
 
 **“Shopify Billing API”** means the application programming interface that allows Developers to create and issue charges to Merchants as well as remit payment to Shopify. For the avoidance of doubt, the Shopify Billing API is deemed to be part of the Shopify API, as defined in the Shopify API Terms.
 
@@ -93,11 +111,13 @@ A Revenue Generating Activity will be attributed to Partner on the date the Merc
 
 **“Shopify Trademarks”** means the trademarks, logos, service marks and trade names of Shopify Inc. and any Shopify Related Entities, whether registered or unregistered, including but not limited to the word mark SHOPIFY and the **“S”** and shopping bag design.
 
-**“Shopify Theme Store”** means the Shopify website where Merchants can select and install Themes on their Merchant Store, available at: [themes.shopify.com](https://themes.shopify.com/).
+**“Shopify Theme Store”** means the Shopify website where Merchants can select and install Themes on their Merchant Store, available at: [themes.shopify.com](https://themes.shopify.com).
 
-**“Taxes”** means all taxes, federal, provincial, state, local or other governmental sales, value added, goods and services, harmonized or other taxes, fees or charges now in force or enacted in the future.
+**“Taxes”** means all federal, provincial, state, local or other governmental sales, value added, goods and services, harmonized or other taxes, fees or charges now in force or enacted in the future.
 
 **“Theme”** means the templates for website layout and design that Merchants may install, use and customize for their Merchant Store.
+
+**“Unsupported Region”** means a region where Shopify is unable to operate due to local legal and regulatory requirements, commercial partnerships, and/or other pertinent factors. Shopify does not support transactions that involve these regions or persons located in or resident in or items originating from or destined for these regions. A list of Unsupported Regions can be found [here](https://help.shopify.com/en/manual/your-account/legal/unsupported-countries-and-regions).
 
 **“Websites”** means any websites that are owned, operated or managed by a Partner and that relate to Partner’s activities pursuant to this Agreement.
 
@@ -107,16 +127,22 @@ A Revenue Generating Activity will be attributed to Partner on the date the Merc
 
 1.  Partner will bear all costs and expenses related to Partner’s marketing or promotion of Shopify or any Shopify Related Entity, and, as applicable, Partner’s Applications, Themes, Websites, Channel Platform, or Partner’s other products or services associated with Partner’s participation in the Partner Program (collectively, **“Partner Marketing Activities”**) in any area, location, territory or jurisdiction, unless otherwise determined by Shopify in its sole discretion.
     
-2.  In no event will Partner engage in any Partner Marketing Activities except as expressly set forth in this Agreement. In the event that Partner has a list of emails where the individuals on the list have expressly elected to receive emails from Partner (“Opt-in List”), Partner may make a written request to Shopify to send emails regarding the offering of Shopify and Shopify Related Entities to the individuals on the Opt-in List (and Shopify may, in its sole discretion, allow Partner to send such emails). In conducting all Partner Marketing Activities, Partner will comply with all applicable laws, rules, regulations and directives, including but not limited to those relating to email marketing and “spamming”. Unless Partner has secured the applicable Merchant’s consent first, Partner will not email any Merchant whose email address they have received via Shopify.
+2.  In no event will Partner engage in any Partner Marketing Activities except as expressly set forth in this Agreement. In the event that Partner has a list of emails where the individuals on the list have expressly elected to receive emails from Partner (“Opt-in List”), Partner may make a written request to Shopify to send emails regarding the offering of Shopify and Shopify Related Entities to the individuals on the Opt-in List (and Shopify may, in its sole discretion, allow Partner to send such emails). In conducting all Partner Marketing Activities, Partner will comply with all applicable laws, rules, regulations and directives, including but not limited to those relating to email marketing and “spamming”. Unless Partner has secured the consent of the applicable Merchant or Partner first, Partner will not email any Merchant or Partner whose email address they have received via Shopify.
     
 3.  Without limiting the generality of Section 2.1.2, Partner will (i) not send any email regarding Shopify or Shopify Related Entities to any individual or entity that has not requested such information; (ii) always include Partner’s contact information and “unsubscribe” information in any email regarding Shopify, Shopify Related Entities, the Service or the Shopify platform; and (iii) not imply that such emails are being sent on behalf of Shopify or Shopify Related Entities.
     
-4.  A Partner will not (i) engage in any fax, broadcast, telemarketing or any other offline marketing methods with respect to Shopify or Shopify Related Entities; (ii) use malware, spyware or any other aggressive advertising or marketing methods in any of its dealings relating to Shopify or Shopify Related Entities; (iii) make any false, misleading or disparaging representations or statements with respect to Shopify or Shopify Related Entities; (iv) solicit Merchants to leave the Shopify Service; (v) copy, resemble or mirror the look and feel of Shopify’s websites, Shopify Trademarks or Services or otherwise misrepresent Partner’s affiliation with Shopify or Shopify Related Entities; or (vi) engage in any other practices which may adversely affect the credibility or reputation of Shopify or Shopify Related Entities, including but not limited to, sending email communications or using any Website in any manner, or having any content on any Website, that (a) uses aggressive or low-quality marketing, including marketing services that are unrelated to Shopify or the Partner’s services, (b) promotes sexually explicit materials, violence, discrimination based on race, sex, religion, nationality, disability, sexual orientation or age, or any illegal or objectionable activities, or (c) violates any intellectual property or other proprietary rights of any third party; or (d) violates the [Acceptable Use Policy](https://www.shopify.com/legal/aup).
+4.  A Partner will not (i) engage in any marketing methods with respect to Shopify or Shopify Related Entities, including but not limited to online and offline methods such as fax, broadcast, telemarketing, SMS/text message, email communications, social media or video platforms; (ii) use malware, spyware or any other aggressive advertising or marketing methods in any of its dealings relating to Shopify or Shopify Related Entities; (iii) make any false, misleading or disparaging representations or statements with respect to Shopify or Shopify Related Entities; (iv) prior to the termination of this Agreement in accordance with its terms, target communications to Merchants solely on the basis of the intended recipient being a Merchant and with the intention of migrating Merchants away from the Service; (v) copy, resemble or mirror the look and feel of Shopify’s websites, Shopify Trademarks or Services or otherwise misrepresent Partner’s affiliation with Shopify or Shopify Related Entities; or (vi) engage in any other practices which may adversely affect the credibility or reputation of Shopify or Shopify Related Entities, including but not limited to using any Website in any manner, or having any content on any Website, that (a) uses aggressive or low-quality marketing, including marketing services that are unrelated to Shopify or the Partner’s services, (b) promotes sexually explicit materials, violence, discrimination based on race, sex, religion, nationality, disability, sexual orientation or age, or any illegal or objectionable activities, or (c) violates any intellectual property or other proprietary rights of any third party; or (d) violates the [Acceptable Use Policy](https://www.shopify.com/legal/aup).
     
 
 #### 2.2. Compliance with Laws
 
 In addition to, and without limiting the provisions of this Agreement, Partner will perform its obligations under this Agreement in accordance with the highest applicable industry standards and in compliance with all applicable laws, rules and regulations, including obtaining any licenses required in order for Partner to operate and to offer the products or services associated with Partner’s participation in the Partner Program.
+
+Partner represents and warrants that (i) none of the Partner, its subsidiaries, its directors, officers, or employees engaged with Shopify is a Sanctioned Person or is owned or controlled by one or more Sanctioned Persons and (ii) Partner is not resident or located in or organized under the laws of an Unsupported Region. In the event that the Partner becomes aware or suspects that the foregoing representation and warranty may no longer be accurate, it will immediately notify Shopify in writing.
+
+Without limiting the foregoing, in performing its obligations and using the Services under this Agreement, the Partner agrees that Partner (i) will not engage directly or indirectly in any activities or transactions that involve, relate to, or benefit a Sanctioned Person or Unsupported Region, and (ii) it will immediately notify Shopify in writing if it becomes aware of or suspects any violation of Sanctions or the related provisions of this Agreement.
+
+For the avoidance of doubt and without limiting Shopify’s general termination rights, by entering into this Agreement, Partner acknowledges that Shopify reserves the unilateral right to terminate this Agreement with Partner with immediate effect via written notice in the event that Shopify, in its sole discretion, determines that Partner (i) is or becomes a Sanctioned Person and/or (ii) is or becomes in breach of any of its representations, warranties, and/or covenants in this Section 2.2.
 
 #### 2.3. Partner Duty to Inform
 
@@ -128,31 +154,37 @@ If Partner is acting as an agent on behalf of a Merchant, then Partner will disc
 
 #### 2.5. Other Partner Terms
 
-1.  If the Partner is an individual, you must be the older of (i) 18 years, or (ii) at least the age of majority in the jurisdiction where you reside and from where you carry out Partner activities.
-2.  You confirm that you are becoming a Partner for the purposes of carrying on a business activity and not for any personal, household or family purpose.
-3.  To become a Partner, Partner must create a Partner Account by providing all information indicated as required. Shopify may reject an application for a Partner Account for any reason, in its sole discretion. Partner acknowledges that Shopify will use the email address provided by Partner as the primary method for communication. Partner is responsible for keeping its Partner Account password secure. Shopify cannot and will not be liable for any loss or damage arising from Partner’s failure to maintain the security of the Partner Account and password.
-4.  If you sign up for a Partner Account on behalf of your employer, your employer will be deemed to be the Partner for the purpose of this Agreement, and you represent and warrant that you have the authority to bind your employer to this Agreement. Each Partner is responsible for: (a) ensuring that its employees, agents and subcontractors comply with this Agreement and (b) any breach of this Agreement by Partner’s employees, agents or subcontractors.
-5.  Partner acknowledges and agrees that Partner will be responsible for the performance of all of its obligations under the Agreement, regardless of whether it sublicenses or subcontracts any such obligations to any third party, including but not limited to any affiliates or subsidiaries of Partner.
-6.  Partner acknowledges and agrees that Shopify may amend this Agreement at any time by posting the relevant amended and restated Partner Program Agreement on Shopify’s website, available at [shopify.com/partners/terms](https://www.shopify.com/partners/terms) and such amendments to the Agreement are effective as of the date of posting. If a significant change is made, Shopify will provide reasonable notice by email, posting a notice on the Shopify Partner Blog or in the Partner Dashboard. Partner’s continued participation in the Shopify Partner Program after the amended Partner Program Agreement is posted to Shopify’s website constitutes Partner’s agreement to, and acceptance of, the amended Agreement. If Partner does not agree to any changes to the Agreement, Partner must terminate the Agreement by discontinuing its participation in the Shopify Partner Program.
-7.  Partner acknowledges and agrees that Partner’s participation in the Shopify Partner Program, including information transmitted to or stored by Shopify, is governed by the Shopify Privacy Policy found at [shopify.com/legal/privacy](https://www.shopify.com/legal/privacy).
+1.  To access and use the Services, you must first register for a Shopify account.
+2.  If the Partner is an individual, you must be the older of (i) 18 years, or (ii) at least the age of majority in the jurisdiction where you reside and from where you carry out Partner activities.
+3.  You confirm that you are becoming a Partner for the purposes of carrying on a business activity and not for any personal, household or family purpose.
+4.  To become a Partner, Partner must create a Partner Account by providing all information indicated as required. Shopify may reject an application for a Partner Account for any reason, in its sole discretion. Each Partner Account must include a full legal name and a valid email address. Partner acknowledges that Shopify will use the email address provided by Partner as the primary method for communication.
+5.  Partner is responsible for keeping its Partner Account password secure. Shopify cannot and will not be liable for any loss or damage arising from Partner’s failure to maintain the security of the Partner Account and password. Shopify may request additional security measures at any time and reserves the right to adjust these requirements at its discretion.
+6.  If you sign up for a Partner Account on behalf of your employer, your employer will be deemed to be the Partner for the purpose of this Agreement, and you represent and warrant that you have the authority to bind your employer to this Agreement. Each Partner is responsible for: (a) ensuring that its employees, agents and subcontractors comply with this Agreement and (b) any breach of this Agreement by Partner’s employees, agents or subcontractors.
+7.  Partner acknowledges and agrees that Partner will be responsible for the performance of all of its obligations under the Agreement, regardless of whether it sublicenses or subcontracts any such obligations to any third party, including but not limited to any affiliates or subsidiaries of Partner.
+8.  Partner acknowledges and agrees that Shopify may amend this Agreement at any time by posting the relevant amended and restated Partner Program Agreement on Shopify’s website, available at [shopify.com/partners/terms](https://www.shopify.com/partners/terms) and such amendments to the Agreement are effective as of the date of posting. If a significant change is made, Shopify will provide reasonable notice by email, posting a notice on the Shopify Partner Blog or in the Partner Dashboard. Partner’s continued participation in the Shopify Partner Program after the amended Partner Program Agreement is posted to Shopify’s website constitutes Partner’s agreement to, and acceptance of, the amended Agreement. If Partner does not agree to any changes to the Agreement, Partner must terminate the Agreement by discontinuing its participation in the Shopify Partner Program.
+9.  Partner acknowledges and agrees that Partner’s participation in the Shopify Partner Program, including information transmitted to or stored by Shopify, is governed by the Shopify Privacy Policy found at [shopify.com/legal/privacy](https://www.shopify.com/legal/privacy).
+10.  Partner acknowledges and agrees that Partner may only access Merchant Stores by using any of the permitted tools listed at [https://help.shopify.com/partners/getting-started/working-on-client-stores](https://help.shopify.com/partners/getting-started/working-on-client-stores).
+11.  The Partner shall acknowledge and promptly respond to reasonable requests for information from Shopify. From time to time, the Partner shall take such action and execute and deliver such documents as Shopify reasonably requests. In addition and without limiting the foregoing, in the event that Shopify contacts the Partner in connection with its Partner Account and requests acknowledgment or response to such communication, the Partner shall respond to Shopify promptly.
 
 ### 3\. Fees and Payments
 
 #### 3.1. Revenue Sharing Plans
 
-Subject to: (i) Partner’s compliance with this Agreement, and (ii) the revenue sharing plan associated with a Partner’s activities pursuant to the Partner Program, Partner will be entitled to receive certain fees from Shopify (the **“Fees”**). The revenue sharing plans applicable to the different types of Referral Partners are set out in [Part B.](#part-b) The revenue sharing plans applicable to the different types of Developers are set out in [Part C.](#part-c) The revenue sharing plans applicable to Experts and the Plus Partner Program are set out in [Part D.](#part-d)
+Subject to: (i) Partner’s compliance with this Agreement, and (ii) the revenue sharing and fee plan associated with a Partner’s activities pursuant to the Partner Program, Partner will be entitled to receive certain fees from Shopify and Shopify will be entitled to receive certain fees from Partner (the **“Fees”**). Amounts due to Partners from Merchants as the result of Partner using the Shopify Billing API are excluded from the term Fees. The revenue sharing plans applicable to the different types of Referral Partners are set out in [Part B.](#part-b) The revenue sharing plans applicable to the different types of Developers are set out in [Part C.](#part-c) The revenue sharing plans applicable to Experts and the Plus Partner Program are set out in [Part D.](#part-d)
 
 #### 3.2. Payment
 
-1.  Fees due to Partner under the [Reference Plan](#section-b2-1) will be calculated by Shopify once per month upon receipt of payment from the Merchant, for each month that the Referred Merchant Store is active, provided that Partner has carried out at least one (1) Revenue Generating Activity in the immediately preceding 12-month period (as set out in Part B, Section 3.1). Fees due to Partner under the [App Plan](#section-c2-2) (where the App Developer uses the Shopify Billing API) or the [Theme Plan](#section-c1-2) will be calculated by Shopify upon receipt of payment from the Merchant for the applicable App or Theme. Fees for Apps with recurring billing will be calculated by Shopify upon receipt of payment for each month that the App is installed on the Merchant Store. Fees due to Partner under the [Bounty Plan](#section-b2-2) will be calculated by Shopify once per month upon receipt of subscription revenue from the Merchant for two consecutive months.
+1.  Fees due to Partner under the [Reference Plan](#section-b2-1) will be calculated by Shopify once per month upon receipt of payment from the Merchant, for each month that the Referred Merchant Store is active, provided that Partner has carried out at least one (1) Revenue Generating Activity in the immediately preceding 12-month period (as set out in Part B, Section 2.1). Fees due to Partner under the [Bounty Plan](#section-b2-2) will be calculated by Shopify once per month upon receipt of subscription revenue from the Merchant for two consecutive months.
     
-2.  Shopify distributes Fees owing to its Partners twice per calendar month (each such period, a **“Payment Period”**). The first Payment Period occurs during the first half of the month, and the second Payment Period occurs during the second half of the month. The Fees described in Section 3.2.1 will be paid in either the first Payment Period or the second Payment Period, depending on the date that the Fee was calculated by Shopify. Where the Fees owing to Partner are greater than USD $25 at the end of any Payment Period, the Fees will be paid to Partner. If the Fees owing to Partner are less than USD $25 at the end of any Payment Period, Shopify will be entitled to withhold payment of Fees until the end of the next Payment Period in which the balance of unpaid Fees owing to Partner from any previous Payment Period and Fees owing to Partner under the current Payment Period are USD $25 or more.
+2.  Shopify distributes Fees owing to its Partners and amounts due to Partner from Merchants where the Partner uses the Shopify Billing API twice per calendar month (each such period, a **“Payment Period”**). The first Payment Period occurs during the first half of the month, and the second Payment Period occurs during the second half of the month. The Fees described in Section 3.2.1 will be paid in either the first Payment Period or the second Payment Period, depending on the date that the Fee was calculated by Shopify. Where the Fees owing to Partner are greater than USD $25 at the end of any Payment Period, the Fees will be paid to Partner. If the Fees owing to Partner are less than USD $25 at the end of any Payment Period, Shopify will be entitled to withhold payment of Fees until the end of the next Payment Period in which the balance of unpaid Fees owing to Partner from any previous Payment Period and Fees owing to Partner under the current Payment Period are USD $25 or more.
     
-3.  Partners are responsible for all applicable Taxes that arise from or as a result of any activities under this Agreement or with respect to Partners dealings with a Merchant. If Taxes are not collected by Shopify in respect of a Partner transaction with a Merchant facilitated by Shopify, Partner is responsible for determining if Taxes are payable on such transaction, and if so, self-remitting Taxes to the appropriate tax authorities.
+3.  Any Fees payable by one Party to another Party that arise as the result of any activity under this Agreement shall be exclusive of Taxes. Such Taxes are in addition to any Fees. If you are exempt from payment of such Taxes, you must provide us with an original certificate that satisfies applicable legal requirements attesting to tax-exempt status. Tax exemption will only apply from and after the date we receive such certificate. Partners are responsible for all applicable Taxes that arise from or as a result of any activities under this Agreement or with respect to Partners dealings with a Merchant. If Taxes are not collected by Shopify in respect of Fees or a Partner transaction with a Merchant, Partner is responsible for determining if Taxes are payable on such transaction, and if so, paying Taxes to the appropriate tax authorities.
     
-4.  Shopify will issue you an invoice for any commission fees Shopify is charging you for activities like app sales, theme sales, and service sales. Shopify will prepare an invoice, on your behalf, to Shopify for any commission fees that Shopify pays to you for referral activities. Fee and commission invoices are generated when a payout is processed. You can't view invoices for pending transactions.
+4.  Shopify will issue you an invoice for any Fees Shopify is charging you. Shopify will prepare an invoice, on Your behalf, to Shopify for any Fees that Shopify pays to you for referral activities. Invoices are generated when a payout is processed. You can't view invoices for pending transactions.
     
-5.  For App Developers who obtain Shopify’s express written permission to forego use of the Shopify Billing API, the App Developer will submit payments due under the [App Plan](#section-c1-2) to Shopify monthly by way of wire transfer or Automated Clearing House (ACH). The App Developer is responsible for contacting [app-commissions@shopify.com](mailto:app-commissions@shopify.com) to obtain the necessary banking information to execute the transfer. If the balance owed to Shopify is less than USD $1,000, App Developer may defer payment until the outstanding balance at the end of a payment period is USD $1,000 or more. If Developer owes Shopify any amounts for Ads pursuant to Part E, Section 1 below, then Shopify may reduce the Fees paid to Developer by offsetting amounts due from Developer to Shopify for Ads against Fees due from Shopify to Developer under this Agreement.
+5.  For App Developers who obtain Shopify’s express written permission to forego use of the Shopify Billing API, the App Developer will submit payments due under the [App Plan](#section-c1-2) to Shopify monthly by way of wire transfer or Automated Clearing House (ACH). Any such payments made by the App Developers to Shopify will be made free and clear of, and without deduction or withholding for, any withholding taxes of any taxing jurisdictions. If withholding taxes must be withheld from any payment to Shopify, the App Developers shall increase the payment to Shopify such that the amount received by Shopify is the same as it would have been if no withholding taxes were withheld. The App Developer is responsible for contacting [app-commissions@shopify.com](mailto:app-commissions@shopify.com) to obtain the necessary banking information to execute the transfer. If the balance owed to Shopify is less than USD $1,000, App Developer may defer payment until the outstanding balance at the end of a payment period is USD $1,000 or more. If Developer owes Shopify any amounts for Ads pursuant to Part E, Section 1 below, then Shopify may reduce the Fees paid to Developer by offsetting amounts due from Developer to Shopify for Ads against Fees due from Shopify to Developer under this Agreement.
+    
+6.  Amounts due to Partner from a Merchant (where the Partner uses the Shopify Billing API) will be calculated by Shopify upon receipt of payment from the Merchant. Amounts for Apps with recurring billing will be calculated by Shopify upon receipt of payment for each month that the App is installed on the Merchant Store.
     
 
 #### 3.3. Additional Payment Information
@@ -221,7 +253,7 @@ Notwithstanding Section 5.2, Partners will not:
 
 1.  use the Shopify Trademarks or variations or misspellings thereof in Partner’s business name, logo, branding, advertising, social media or domain name (including without limitation top-level domains, sub-domains and page URLs), products or services (including without limitation, in the name or design of any Application or Theme), unless granted express written permission by Shopify in advance of each use; or
     
-2.  purchase or register search engine or other pay-per-click keywords (such as Google Ads), trademarks, email addresses or domain names that use the Shopify Trademarks or any variations or misspellings thereof that may be deceptively or confusingly similar to the Shopify Trademarks.
+2.  purchase or register search engine or other pay-per-click keywords (such as Google Ads), trademarks, email addresses or domain names that use the Shopify Trademarks or any variations or misspellings thereof that may be deceptively or confusingly similar to the Shopify Trademarks. Partner is strongly encouraged to add the Shopify Trademarks as negative keywords to help prevent violation of this Section.
     
 
 #### 5.4. Proprietary Rights of Shopify
@@ -259,7 +291,7 @@ In claiming any indemnification under this Agreement, the Indemnified Party will
 
 #### 8.4. Non-exclusive remedies
 
-In the event of any breach or threatened breach by Partner of any provision of Sections 2, 3.2.4, 5 or 6 above, in addition to all other rights and remedies available to Shopify under this Agreement and under applicable law, Shopify will have the right to (a) immediately enjoin all such activity, without the necessity of showing damages or posting bond or other security, (b) immediately terminate this Agreement and Partner’s access to the Partner Program, (c) receive a prompt refund of all amounts paid to Partner under this Agreement, and (d) be indemnified for any losses, damages or liability incurred by Shopify in connection with such violation, in accordance with the provisions of this Section 8.
+In the event of any breach or threatened breach by Partner of any provision of Sections 2, 3.2.5, 5 or 6 above, in addition to all other rights and remedies available to Shopify under this Agreement and under applicable law, Shopify will have the right to (a) immediately enjoin all such activity, without the necessity of showing damages or posting bond or other security, (b) immediately terminate this Agreement and Partner’s access to the Partner Program, (c) receive a prompt refund of all amounts paid to Partner under this Agreement, and (d) be indemnified for any losses, damages or liability incurred by Shopify in connection with such violation, in accordance with the provisions of this Section 8.
 
 ### 9\. General provisions
 
@@ -287,9 +319,11 @@ The failure of any Party to insist upon or enforce strict performance by another
 
 This Agreement, including any completed application form and all guidelines and other documents linked or otherwise incorporated or referenced in this Agreement, sets forth the entire agreement and supersedes any and all prior agreements, written or oral, of the Parties with respect to the subject matter hereof (including, but not limited to, any prior version of this Agreement). Neither Shopify nor the Partner will be bound by, and each Party specifically objects to, any term, condition or other provision that is different from or in addition to the provisions of this Agreement (whether or not it would materially alter this Agreement) and which is proffered by another Party in any correspondence or other document, unless the Party to be bound thereby specifically agrees to such provision in writing.
 
+This Agreement may be available in languages other than English. To the extent of any inconsistencies or conflicts between this English Agreement and the Agreements available in another language, the most current English version of the Agreement will prevail.
+
 #### 9.7. Assignment
 
-All the terms and provisions of this Agreement will be binding upon and inure to the benefit of the Parties to this Agreement and to their respective heirs, successors, permitted assigns and legal representatives. Shopify will be permitted to assign this agreement without notice to or consent from Partner. Partner will have no right to assign or otherwise transfer this Agreement, or any of its rights or obligations under this Agreement, to any third party without Shopify’s prior written consent, to be given or withheld in Shopify’s sole discretion.
+All the terms and provisions of this Agreement will be binding upon and inure to the benefit of the Parties to this Agreement and to their respective heirs, successors, permitted assigns and legal representatives. Shopify will be permitted to assign this agreement without notice to or consent from Partner. Partner will have no right to assign or otherwise transfer this Agreement, or any of its rights or obligations under this Agreement, to any third party without Shopify’s prior written consent, to be given or withheld in Shopify’s sole discretion. Transfer can include acquisition, merger, change of control, or other forms of transfer. To submit a request for Shopify’s consent to assignment or transfer, contact Shopify Partner Support in the Partner Dashboard.
 
 #### 9.8. Applicable Laws
 
@@ -321,7 +355,7 @@ Partner may work with service providers as necessary to facilitate Partner’s p
 
 1.  Partner’s networks, operating system and software of its web servers, routers, databases, and computer systems (collectively, **“Partner System”**) must be properly configured to Internet industry standards so as to securely operate Partner’s Website, Applications and Themes, as applicable. If Partner does not completely control some aspect of the Partner System, Partner will use all influence that Partner has over the Partner System to do so. Partner must diligently correct any security deficiency and disconnect immediately any known or suspected intrusions or intruder.
     
-2.  In addition, if Partner has access to Merchant Data, Partner: (i) will only use or store such information for the purpose of providing the Partner’s services to the Merchant to whom the Merchant Data relates, and will not share, sell, disclose or otherwise provide such information to any third party, except as provided for in this Agreement; (ii) will not communicate with Customers directly or indirectly, provided however that Partner may contact Customers if the information is obtained from another source, such as from the Customers themselves; (iii) will only store such information for as long as reasonably necessary to provide the Partner’s services to the Merchant to whom the Merchant Data relates; (iv) will use industry standard measures to protect against unauthorized access to, disclosure or use of such information; (v) will comply with all applicable laws and regulations relating to the protection and privacy of personally identifiable information in Partner’s provision of the Partner’s services; and (vi) will notify Shopify of any actual or suspected breach or compromise of Merchant Data (a **“Data Breach”**) within two (2) business days of becoming aware of such occurrence. Upon learning of the Data Breach, at its own cost, Partner will: (A) promptly remedy the Data Breach to prevent any further loss of Merchant Data; (B) investigate the incident; (C) take reasonable actions to mitigate any future anticipated harm to Shopify, the Shopify Related Entities, Merchants or Customers; and (D) regularly communicate the progress of its investigation to Shopify and cooperate to provide Shopify with any additional requested information in a timely manner.
+2.  In addition, if Partner has access to Merchant Data, Partner: (i) will only use or store such information for the purpose of providing the Partner’s services to the Merchant to whom the Merchant Data relates, and will not share, sell, disclose or otherwise provide such information to any third party, except as provided for in this Agreement; (ii) will not communicate with Customers directly or indirectly, provided however that Partner may contact Customers if the information is obtained from another source, such as from the Customers themselves; (iii) will only store such information for as long as reasonably necessary to provide the Partner’s services to the Merchant to whom the Merchant Data relates; (iv) will use industry standard measures to protect against unauthorized access to, disclosure or use of such information; (v) will comply with all applicable laws and regulations relating to the protection and privacy of personally identifiable information in Partner’s provision of the Partner’s services; and (vi) will notify Shopify of any actual or suspected breach or compromise of Merchant Data (a **“Data Breach”**) immediately upon, but no later than twenty-four (24) hours of, becoming aware of such occurrence, by reporting an issue to Shopify Partner Support via email at [https://help.shopify.com/questions/partners](https://help.shopify.com/questions/partners). Upon learning of the Data Breach, at its own cost, Partner will: (A) promptly remedy the Data Breach to prevent any further loss of Merchant Data; (B) investigate the incident; (C) take reasonable actions to mitigate any future anticipated harm to Shopify, the Shopify Related Entities, Merchants or Customers; and (D) regularly communicate the progress of its investigation to Shopify and cooperate to provide Shopify with any additional requested information in a timely manner.
     
 
 #### 9.15. Severability
@@ -330,7 +364,7 @@ If any provision of this Agreement is, for any reason, held to be invalid, illeg
 
 #### 9.16. Shopify Asia’s Role and a Description of Shopify Entities
 
-1.  Where Apps, Themes or Experts Marketplace Services are purchased by Merchants in the Asian Pacific region, Shopify Asia will act as agent to Shopify Inc. to effectuate that sale under this Agreement. In all other respects, Shopify Inc. will perform this Agreement on its own behalf and as agent for Shopify Asia.The liability of each Shopify Entity will be several for the purposes of this Agreement.
+1.  In certain circumstances and as necessary, Shopify Inc. may perform this Agreement as agent for Shopify Asia, in which case, the liability of each Shopify Entity will be several for the purposes of this Agreement.
     
 2.  Shopify Inc. is a corporation formed under the laws of Canada, with offices located at 151 O’Connor Street, Ground floor, Ottawa, Ontario, Canada, K2P 2L8.
     
@@ -355,7 +389,7 @@ This Part B contains terms applicable to Referral Partners generally.
     
 2.  The **“Bounty Plan”** is a bonus plan that pays Partner a fixed, one-time payment (**“Bounty”**) when the Partner introduces Shopify to a Referred Merchant using the Partner Affiliate Link. The Bounty Plan is not applicable in respect of the Shopify Plus plan. Unless otherwise agreed to in writing by Shopify, under the Bounty Plan, when a Referred Merchant is referred by a Partner to a Shopify plan (other than Shopify Plus), Partner will receive a fixed one-time Bounty of two hundred percent (200%) of one-month’s subscription revenue received from such Referred Merchant. Any Bounty payable to a Partner will be paid in two parts. The first half of the Bounty will be paid within 30 days after the Referred Merchant pays Shopify their first monthly subscription fee. The second half of the bounty will be paid within 30 days of the end of the calendar month in which the first half of the Bounty was paid. The Bounty Plan may also apply where a Referred Merchant is introduced to Shopify by more than one Referral Partner. See [help.shopify.com/partners/getting-started/how-to-earn](https://help.shopify.com/partners/getting-started/how-to-earn) for more details. Shopify reserves the right to revise the revenue share amounts applicable to the Bounty Plan from time to time, at its sole discretion, upon reasonable prior notice to Partner. Such notice will be provided by email, posting a notice on the Shopify blog or in the Partner Dashboard.
     
-3.  For each Referral Merchant, Partner will be entitled to receive Fees from either the Reference Plan or the Bounty Plan, but not both. Where Partner introduces Shopify to a Referred Merchant through a Development Store associated with the Referral Partner's Dashboard, the Partner will be entitled to receive Fees in accordance with the Reference Plan. Where a Partner introduces Shopify to a Referred Merchant through the Referral Partner’s Affiliate Link, the Partner will be entitled to receive Fees in accordance with the Bounty Plan. Whether the Partner receives Fees in respect of a Referred Merchant under either the Reference Plan or the Bounty Plan is at Shopify’s sole and absolute discretion. To learn more about the Reference Plan and Bounty Plan, please visit [help.shopify.com/partners/getting-started/getting-paid](https://help.shopify.com/partners/getting-started/getting-paid).
+3.  For each Referral Merchant, Partner will be entitled to receive Fees from either the Reference Plan or the Bounty Plan, but not both. Where Partner introduces Shopify to a Referred Merchant through a Development Store associated with the Referral Partner's Dashboard, the Partner will be entitled to receive Fees in accordance with the Reference Plan. Where a Partner introduces Shopify to a Referred Merchant through the Referral Partner’s Affiliate Link, the Partner will be entitled to receive Fees in accordance with the Bounty Plan. Whether the Partner receives Fees in respect of a Referred Merchant under either the Reference Plan or the Bounty Plan is at Shopify’s sole and absolute discretion. To learn more about the Reference Plan and Bounty Plan, please visit [help.shopify.com/partners/how-to-earn](https://help.shopify.com/en/partners/how-to-earn).
     
 4.  Shopify reserves the right to (i) demand and receive information from Referral Partners about any Referred Merchant, including but not limited to information with respect to traffic sources and methods used to acquire the Referred Merchant, and (ii) assess the legitimacy and qualification of such Referred Merchant for the purposes of determining whether a Fee is payable for such Referred Merchant. Shopify will not be responsible to pay any Fees for a Referred Merchant owned in whole or in part by a Referral Partner or Referral Partner’s employer (whether full-time, part-time, term or any other employment type relationship).
     
@@ -382,7 +416,7 @@ Referral Partners will use their best efforts to (i) promote and market Shopify,
 
 ### 5\. Development Stores
 
-During the development of a Merchant Store by the VAP on behalf of a Merchant, the VAP may designate the store as a Development Store. A Development Store is not publicly visible and is not subject to monthly subscription fees. A Development Store cannot be used to process orders on behalf of the Partner or the Merchant; provided, however, that Development Stores may be used to process test orders. A Development Store is deemed to become a Merchant Store upon the earlier of: (a) the payment of monthly subscription fees for the store by either the VAP or Merchant; and (b) the transfer by the VAP of ownership of the Development Store to the Merchant.
+During the development of a Merchant Store by the VAP on behalf of a Merchant, the VAP may designate the store as a Development Store. A Development Store is not publicly visible and is not subject to monthly subscription fees. A Development Store cannot be used to process orders on behalf of the Partner or the Merchant; provided, however, that Development Stores may be used to process test orders. A Development Store is deemed to become a Merchant Store upon the earlier of: (a) the payment of monthly subscription fees for the store by either the VAP or Merchant; and (b) the transfer by the VAP of ownership of the Development Store to the Merchant, at which time the VAP or the Merchant’s use of the Merchant Store will be subject to the [Shopify Terms of Service](https://www.shopify.com/legal/terms).
 
 ### 6\. Relationship between VAP and Merchant
 
@@ -403,11 +437,13 @@ Without limiting the restrictions outlined elsewhere in this Agreement or in the
 
 1.  Solicit or permit reviews that are fake, inaccurate, irrelevant, misleading, being used improperly for commercial gain, posted in exchange for a financial or other gain, posted multiple times (whether from the same or more than one account), misleading as to the reviewer's identity or their connection to the Application or Theme being reviewed, or reviews that contain or link to prohibited or illegal content. Reviews on the Shopify App Store and Shopify Theme Store are meant to be unbiased, useful and trustworthy. Shopify reserves the right to take any action it deems necessary in respect of a Partner engaged in any of this behaviour, including the right (but not the obligation) to remove or edit reviews;
     
-2.  Include code in any Application which performs any operations not related to the services provided by the Application, whether or not Developer has obtained Merchant consent to do so, and whether or not the Application obtains consent from the end user to do so. For the avoidance of doubt, this prohibited activity includes embedding or incorporating code into any Application which utilizes the resources (including CPU resources) of another computer, including for the purposes of cryptocurrency mining;
+2.  Include code in any Application which performs any operations not related to the services provided by the Application, whether or not Developer has obtained Merchant consent to do so, and whether or not the Application obtains consent from the end user to do so. For the avoidance of doubt, this prohibited activity includes: embedding or incorporating code into any Application which utilizes the resources (including CPU resources) of another computer, including for the purposes of cryptocurrency mining; using code that is intended to misrepresent website content to falsify SEO metrics; and injecting obfuscated code into into, or otherwise through, an App, Theme, any Partner Program resource or activity, or the Service;
     
 3.  Develop or distribute the Application or Theme in any way in furtherance of criminal, fraudulent, or other unlawful activity, or otherwise violate the [Shopify Acceptable Use Policy](https://www.shopify.com/legal/aup); or
     
 4.  Create multiple Applications that offer substantially the same services.
+    
+5.  Replace or change credit card input fields or any other similar component or field within the Shopify Checkout, without Shopify's prior written consent.
     
 
 ### 3\. Additional Shopify Trademark License for Developers
@@ -422,16 +458,25 @@ Unless otherwise agreed to by Shopify in writing, if a Developer will create and
 
 #### 1\. Theme Requirements
 
-1.  Theme Developers are permitted to develop Themes for Merchants to be distributed in the Shopify Theme Store. Theme Developer selects the purchase price for the Theme, provided that the price is within Shopify’s current Theme pricing guidelines. All Themes are subject to approval and acceptance by Shopify and Shopify retains the right to remove a Select Theme (as defined in Section 2 below) from the Shopify Theme Store at any time and for any reason.
+1.  Theme Developers are permitted to develop Themes for Merchants to be distributed in the Shopify Theme Store. Select Themes (as defined in Section 2 below) developed for Shopify Merchants, may be made accessible to Shopify Merchants only through the Shopify Theme Store. The Theme Developer selects the purchase price for the Theme, provided that the price is within Shopify’s current Theme pricing guidelines. All Themes are subject to approval and acceptance by Shopify and Shopify retains the right to remove a Select Theme from the Shopify Theme Store at any time and for any reason.
     
-2.  Theme Developers must follow all Shopify guidelines set out here [help.shopify.com/themes/development/theme-store-requirements](https://help.shopify.com/themes/development/theme-store-requirements) with respect to their Theme.
+2.  Theme Developers must follow all Shopify guidelines set out at [https://shopify.dev/themes/store/requirements](https://shopify.dev/themes/store/requirements) with respect to their Theme.
     
 3.  Each Theme Developer represents and warrants that it has obtained all necessary right, title and interest in and to the images, fonts, designs, plugins, templates, software or other assets that are distributed with a Select Theme in the Shopify Theme Store. Theme Developer further represents and warrants that no part of the Theme will violate or infringe upon any copyright or any other rights whatsoever of any third party.
     
 
-#### 2\. Revenue Sharing Plans for Theme Developers
+#### 2\. Revenue Sharing Plans and Fees for Theme Developers
 
-The **“Theme Plan”** is a revenue sharing plan which allocates revenue between Shopify and a Theme Developer whose Theme has been selected to be sold through the Shopify Theme Store (each such Theme, a **“Select Theme”**). Under the Theme Plan, a Theme Developer is entitled to either: (a) seventy percent (70%) of the total revenues from the sale of such Select Theme, with Shopify being entitled to the remaining thirty percent (30%), where the Theme Developer will support the Select Theme as set out here [themes.shopify.com/services/themes/guidelines](https://themes.shopify.com/services/themes/guidelines) (the **“Developer Supported Model”**), or (b) fifty percent (50%) of the total revenues from the sale of such Select Theme, with Shopify being entitled to the remaining fifty (50%), where the Theme Developer chooses to have Shopify support the Select Theme as set out here [themes.shopify.com/services/themes/guidelines](https://themes.shopify.com/services/themes/guidelines) (the **“Shopify Supported Model”**).
+1.  The **“Theme Plan”** is a revenue sharing plan which allocates revenue between Shopify and a Theme Developer whose Theme has been selected to be sold through the Shopify Theme Store (each such Theme, a **“Select Theme”**). Unless otherwise indicated in this Agreement, in any Additional Terms, agreed to by Shopify in writing or required by Shopify from time to time, the Theme Plan will apply as follows:
+    
+    1.  A Theme Developer owes Shopify, per calendar year, (a) zero percent (0%) of the first USD $1 million of the total revenues from the sale of the Theme Developer’s Select Themes (**“USD $1 million threshold”**), and (b) fifteen percent (15%) of any such revenues exceeding the USD $1 million threshold.
+    2.  The Theme Plan applies to Theme Developers in accordance with the requirements set out at: [https://shopify.dev/themes/store/revenue-share](https://shopify.dev/themes/store/revenue-share), or as otherwise set out by Shopify from time to time.
+    3.  For the purposes of this Section C.1.2.1:
+        
+        1.  if a Theme Developer has more than one Associated Theme Developer Account, the USD $1 million threshold will be calculated based on the total revenues from the sale of all Select Themes of the Theme Developer and all Associated Theme Developer Accounts;
+        2.  the calendar year resets annually at 00:00 ET on January 1, regardless of a Theme Developer’s time zone; and
+        3.  any gross Theme revenues for a Partner Account will be set to USD $0.00 on September 15, 2021 at 13:00 ET and on January 1 of each subsequent calendar year.
+    4.  **Fees**. Unless otherwise agreed to in writing by Shopify, any Select Theme is subject to a 2.9% Processing Fee.
 
 #### 3\. Additional Shopify Trademark Use Rights for Theme Developers
 
@@ -441,14 +486,41 @@ Notwithstanding Section 5.3 of Part A, Theme Developers may use the Shopify Trad
 
 #### 1\. App Requirements
 
-1.  All Public Applications are subject to approval and acceptance by Shopify, and Shopify retains the right to take any action it deems necessary in respect of a Public Application at any time for any reason.
+1.  All Applications may only be installed or otherwise initiated directly **on or through the Service**.
     
-2.  App Developers must follow all Shopify guidelines set out here: [https://shopify.dev/concepts/app-store/getting-your-app-approved/app-requirements](https://shopify.dev/concepts/app-store/getting-your-app-approved/app-requirements) with respect to their App.
+2.  All Applications must comply with all laws applicable to it, are subject to approval and acceptance by Shopify, and Shopify retains the right to remove any Application from the Shopify App Store at any time for any reason.
+    
+3.  App Developers must follow all Shopify guidelines set out here: [https://shopify.dev/apps/store/requirements](https://shopify.dev/apps/store/requirements) with respect to their App.
+    
+4.  App Developer represents and warrants that the U.S. export control classification number of each of their Apps is “EAR99”, unless App Developer has provided a different U.S. export control classification number to Shopify in respect of the applicable App.
+    
+5.  App Developers that are no longer able to offer, maintain or support a Public Application, must provide proper notice to Merchants and follow the proper guidelines to sunset the Public Application, as set out here: [https://shopify.dev/apps/store/success/support/sunsetting](https://shopify.dev/apps/store/success/support/sunsetting).
     
 
-#### 2\. Revenue Sharing Plans for App Developers
+#### 2\. Revenue Sharing Plans and Fees for App Developers
 
-The **“App Plan”** is a revenue sharing plan that allocates revenue between Shopify and an App Developer for a Public Application. Unless otherwise indicated in this Agreement or agreed to by Shopify in writing, under the App Plan, an App Developer is entitled to eighty percent (80%) of the total revenues from the sale of, subscription to or charges relating to the Public Application, with Shopify being entitled to the remaining twenty percent (20%).
+1.  The **“App Plan”** is a revenue sharing plan that allocates revenue between Shopify and an App Developer for a Public Application.
+    
+    1.  **For registered App Developers, effective August 1, 2021**. Unless otherwise indicated in this Agreement, in any Additional Terms, agreed to by Shopify in writing or required by Shopify from time to time, the App Plan will apply as follows:
+        
+        1.  An App Developer owes Shopify, per calendar year, (a) zero percent (0%) of the first USD $1 million of the total revenues from the sale of, subscription to or charges relating to the App Developer’s Public Applications (**"USD $1 million threshold"**), and (b) fifteen percent (15%) of any such revenues exceeding the USD $1 million threshold.
+        2.  This App Plan applies to App Developers that have registered in accordance with the requirements set out by Shopify.
+        3.  For the purposes of this Section C.2.2.1.A:
+            
+            (a) if an App Developer has more than one Associated Developer Account, the USD $1 million threshold will be calculated based on the total revenues from the sale of, subscription to, or charges relating to all Public Applications of the App Developer and all Associated Developer Accounts;
+            
+            (b) the calendar year resets annually at 00:00 ET on January 1, regardless of an App Developer’s time zone; and
+            
+            (c) any gross App revenues for a Partner Account will be set to USD $0.00 upon completion of App Store registration and on January 1 of each subsequent calendar year.
+            
+        4.  **Fees**. Unless otherwise agreed to in writing by Shopify:
+            
+            (a) each Partner Account is subject to a one-time, non-refundable USD $99 App Store Registration Fee upon submission for registration under this Section C.2.2.1.A; and
+            
+            (b) any Public Application that is accepted by Shopify for sale or distribution through the Shopify App Store is subject to a 2.9% Processing Fee.
+            
+    2.  **For App Developers not covered under Section C.2.2.1.A**. Unless otherwise indicated in this Agreement or agreed to by Shopify in writing, under the App Plan, an App Developer is entitled to eighty percent (80%) of the total revenues from the sale of, subscription to or charges relating to the Public Application, with Shopify being entitled to the remaining twenty percent (20%).
+        
 
 #### 3\. Additional Shopify Trademark Use Rights for App Developers
 
@@ -471,7 +543,7 @@ Notwithstanding Section 5.3 of Part A, App Developers may use the Shopify Tradem
     
 3.  In addition to and without limiting the generality of Section 6.1 of the Shopify API Terms, the Merchant Agreement for Merchants who use the Channel Application must also include terms that specify: (i) any and all charges associated with the Merchant’s use of the Channel Application; and (ii) any eligibility criteria that the Merchant must meet prior to the Merchant’s acceptance to use the Channel Application, and to the extent reasonably practicable, provide examples of such eligibility criteria and information respecting Channel Developer’s review and appeal process, if applicable.
     
-4.  If Channel Developer will create and issue charges to Merchants for Merchants’ use of the Channel Application, whether in the form of cost-per-acquisition, cost-per-click, percentage commission or otherwise, Channel Developer must use the Shopify Billing API. It is the Channel Developer’s responsibility to: (i) obtain Merchant consent in the Merchant Agreement to create and issue such charges, and (ii) bill the Merchant in compliance with applicable legal requirements and card network payment rules. Amounts owing to Channel Developer for a Merchant’s use of the Channel Application will be paid in the same manner as Fees are paid to App Developers under the App Plan, as outlined in Part A, Section 3.2.
+4.  If Channel Developer will create and issue charges to Merchants for Merchants’ use of the Channel Application, whether in the form of cost-per-acquisition, cost-per-click, percentage commission or otherwise, Channel Developer must use the Shopify Billing API. It is the Channel Developer’s responsibility to: (i) obtain Merchant consent in the Merchant Agreement to create and issue such charges, and (ii) bill the Merchant in compliance with applicable legal requirements and card network payment rules. Amounts owing to Channel Developer for a Merchant’s use of the Channel Application will be paid in the same manner as amounts are paid to App Developers under the App Plan, as outlined in Part A, Section 3.2.
     
 5.  If Channel Developer creates and issues a charge to Merchants for Merchants’ use of the Channel Application, Shopify may incur processing fees to process each such charge. Channel Developer will remain fully responsible for any such processing fees that Shopify may incur. Upon request from Channel Developer, Shopify will advise Channel Developer of such processing fees. The Parties agree that the total amount of any processing fees incurred by Shopify will be set-off against any Fees payable to Channel Developer in the relevant Payment Period.
     
@@ -507,16 +579,83 @@ Subject to the following, Channel Developer agrees to maintain its Channel Appli
 
 ### C.4. Additional Terms Applicable to Payment Gateway Developers
 
-1.  Payment Gateway Developers are permitted to develop Payment Gateway Applications that integrate a payment gateway and the Service. Payment Gateway Applications may be made available to Merchants privately or, if approved by Shopify, publicly within the Merchant’s admin and Shopify’s public list of [payment gateways](https://www.shopify.com/payment-gateways). Payment Gateway Developer must comply with the [Shopify API Terms](https://www.shopify.com/legal/api-terms) and the [Shopify Hosted Payment SDK guidelines](https://help.shopify.com/api/sdks/hosted-payment-sdk). For the avoidance of doubt, Payment Gateway Applications that (a) use the Shopify Hosted Payment SDK, and (b) do not bypass any component of Shopify Checkout other than the collection of payment details and payment processing, do not violate Section 2.3.18 of the Shopify API Terms.
+1.  Payment Gateway Developers are permitted to develop Payment Gateway Integrations that integrate a payment gateway and the Service. Payment Gateway Integrations may be made available to Merchants privately or, if approved by Shopify, publicly within the Merchant’s admin and Shopify’s public list of [payment gateways](https://www.shopify.com/payment-gateways). Payment Gateway Developer must comply with the [Shopify API Terms](https://www.shopify.com/legal/api-terms) and the [Shopify Hosted Payment SDK guidelines](https://help.shopify.com/api/sdks/hosted-payment-sdk). For the avoidance of doubt, Payment Gateway Integrations that (a) use the Shopify Hosted Payment SDK, and (b) do not bypass any component of Shopify Checkout other than the collection of payment details and payment processing, do not violate Section 2.3.18 of the Shopify API Terms.
     
-2.  If a Payment Gateway App is not made publicly available, the Payment Gateway Developer may permit Merchants to privately install the Payment Gateway Application, by providing Merchants with a shareable installation link.
+2.  If a Payment Gateway Integration is not made publicly available, the Payment Gateway Developer may permit Merchants to privately install the Payment Gateway Integration, by providing Merchants with a shareable installation link.
     
-3.  If a Payment Gateway Developer’s Payment Gateway Application meets the criteria set out in the Shopify Hosted Payment SDK guidelines: [help.shopify.com/api/sdks/hosted-payment-sdk/publish-gateway#private](https://help.shopify.com/api/sdks/hosted-payment-sdk/publish-gateway#private) for public listing by Shopify, the Payment Gateway Developer may apply to Shopify for a public listing. Depending on a number of factors determined and assessed by Shopify in its sole discretion, including transaction volume and Payment Gateway Application adoption rates, Shopify may make the Payment Gateway Application available to all Merchants via the Merchant’s admin and list the Payment Gateway Application in Shopify’s public list of payment gateways.
+3.  If a Payment Gateway Developer’s Payment Gateway Integration meets the criteria set out in the Shopify Hosted Payment SDK guidelines: [help.shopify.com/api/sdks/hosted-payment-sdk/publish-gateway#private](https://help.shopify.com/api/sdks/hosted-payment-sdk/publish-gateway#private) for public listing by Shopify, the Payment Gateway Developer may apply to Shopify for a public listing. Depending on a number of factors determined and assessed by Shopify in its sole discretion, including transaction volume and Payment Gateway Integration adoption rates, Shopify may make the Payment Gateway Integration available to all Merchants via the Merchant’s admin and list the Payment Gateway Integration in Shopify’s public list of payment gateways.
     
 4.  Payment Gateway Developer must comply with any terms, guidelines or approval processes required pursuant to any card network rules, and applicable laws or regulations.
     
 5.  Payment Gateway Developer represents, warrants, and covenants that, where applicable, it will at all times be certified as compliant with all provisions of the Payment Card Industry Data Security Standard (“PCI-DSS”) or any successor standards or requirements applicable to its performance as a Payment Gateway Developer under this Agreement. Payment Gateway Developer will, upon Shopify’s reasonable request, deliver reasonable evidence to Shopify of Payment Gateway Developer’s compliance with PCI-DSS.
     
+
+### C.5. Additional Terms Applicable to Payments Developers
+
+#### 1\. Payments Applications
+
+1.  **Designation**. From time to time Shopify may allow payment providers to become a Payments Developer and permit them to develop a Payments Application. A payment provider can apply to become a Payments Developer through the [Payments Platform Onboarding Form](https://paymentsplatform.splashthat.com).
+    
+2.  **Approval**. All Payments Applications are subject to Shopify's review and approval to ensure compliance with our guidelines, API documentation, and other standards that we deem necessary to protect the integrity of Shopify’s payments ecosystem. Shopify has the sole discretion of the approval or denial of any Payments Application.
+    
+3.  **Revenue Share**. As part of the Payments Application approval process, all Payments Developers must enter a Revenue Share agreement.
+    
+4.  **Invoicing and Withholding Tax**. Shopify will invoice Payments Developers by the tenth (10) business day following the end of the previous month. Payment will be made by Payments Developer to Shopify within thirty (30) days following the date of invoice. Any payments made by Payment Developer to Shopify will be made free and clear of, and without deduction or withholding for, any withholding taxes of any taxing jurisdictions. If withholding taxes must be withheld from any payment to Shopify, Payment Developer shall increase the payment to Shopify such that the amount received by Shopify is the same as it would have been if no withholding taxes were withheld.
+    
+
+#### 2\. Public Listing
+
+1.  If a Payments Application meets the criteria set out in the [Payments Platform Developer Guidelines](https://shopify.dev/apps/payments/creating-a-payments-app) for public listing by Shopify, the Payments Developer may apply to Shopify for a public listing. Shopify will review such Payments Applications and depending on a number of factors determined and assessed by Shopify in its sole discretion, including transaction volume and Payments Application adoption rates, Shopify may approve the Payments Application inclusion in Shopify’s public list of [payment gateways](https://www.shopify.com/payment-gateways) and make the Payments Application available to Merchants via Merchants admin.
+    
+2.  If a Payments Application is not approved for public listing , the Payments Developer may permit Merchants to install the Payments Application, by providing Merchants with a shareable installation link.
+    
+
+#### 3\. Requirements
+
+1.  **Use of our API**. Payments Developers must only use the Payments Apps APIs as specified in the [Payments Platform Developer Guidelines](https://shopify.dev/apps/payments#prohibited-actions) and may not use any other Shopify APIs unless granted permission from Shopify. Payments Developer acknowledges that Shopify will update the Payments Apps APIs at its discretion. It is the Payments Developer’s responsibility to install any updated version of the API as set forth in the [Shopify API Versioning Guidelines](https://shopify.dev/api/payments-apps).
+    
+2.  **Compliance with Shopify API Terms**. Payments Developers must comply with the [Shopify API Terms](https://www.shopify.com/legal/api-terms). For the avoidance of doubt, Payments Applications that (a) are available in Shopify’s payments ecosystem, and (b) do not bypass any component of Shopify Checkout other than the collection of payment details and payments processing, do not violate Section 2.3.18 of the Shopify API Terms.
+    
+3.  **Minimum Support Commitment**. Payments Application must provide industry standard service levels to merchants. The Payments Application must at a minimum be operational and available on a twenty-four hour, seven days a week (24x7) basis at least 99.95% of the time in any measurement period. Payments Applications must provide servicing support to all Merchants and are required to provide Shopify with an email address which can be used by Merchants to contact the Payments Application directly for support. In the event of outages or issues, payment developers must respond within 2 hours.
+    
+4.  **Adhere to the Payments Platform Developer Guidelines**. To help guide you through the development of your Payments Application and to offer the best possible experience for our Merchants, we maintain a list of requirements under [Payments Platform Developer Guidelines](https://shopify.dev/apps/payments#requirements) and best practices that Payments Developers must follow. Every Payments Developer must adhere to these guidelines and every Payments Application must meet the technical and other specifications that it describes.
+    
+5.  **Sync Data to Shopify**. All payments and order data received from transactions processed on the Payments Application must be automatically synced to Shopify as specified in the [Payments Platform Developer Guidelines](https://shopify.dev/apps/payments#how-payments-apps-work).
+    
+6.  **New Payments Application Feature Approval**. Any updates or changes to an existing Payments Application, including the addition of new product features or new payment methods, must be submitted for review and approval.
+    
+7.  **Merchant Flexibility**. Payments Applications must allow for Shopify Merchants to terminate their agreement with the payment provider within 7 days’ notice, without any penalty, fine, or other consequence.
+    
+8.  **Settlements**. All Payments Applications must settle transactions for the Merchants within a maximum of 5 days, as outlined in the [Payments Platform Developer Guidelines](https://shopify.dev/apps/payments#payment-security).
+    
+
+#### 4\. Risk, Fraud & Compliance
+
+1.  **Maintain a Risk & Fraud Program**. Payments Applications are responsible for monitoring and managing risk and fraud. If Payments Application is being used by what Shopify deems as an unreasonably high percentage of Merchants who are engaging in fraudulent or high risk behaviour, as determined in Shopify’s sole discretion, Payments Application agrees to collaborate with Shopify to implement and develop preventive measures to mitigate such risk. If Payments Application fails to collaborate with Shopify, or fails to take additional steps to reduce risk and fraud in a manner that we deem appropriate, we may take governance action against the Payments Application.
+    
+2.  **Requests for and Sharing of Information**. You agree to share certain information about you and your Payments Application with Shopify. This includes you sharing information: (i) about transactions for regulatory or compliance purposes in the form and manner set forth in the [Payments Platform Developer Guidelines](https://shopify.dev/apps/payments) or as may be otherwise requested from time to time; (ii) that Shopify deems necessary, in our sole discretion, for the management and maintenance of Shopify’s ecosystem; (iii) that Shopify deems necessary, in our sole discretion, to conduct our risk management process.
+    
+3.  **Compliance with Applicable Laws, Regulations & Standards**. Payments Developer must comply with any terms, guidelines or approval processes required pursuant to any card network rules, and applicable laws or regulations. Payments Developer represents, warrants, and covenants that, where applicable, it will at all times be certified as compliant with all provisions of the Payment Card Industry Data Security Standard (“PCI-DSS”) or any successor standards or requirements applicable to its performance as a Payments Developer under this Agreement. Payments Developer will, upon Shopify’s reasonable request, deliver reasonable evidence to Shopify of Payments Developer’s compliance with PCI-DSS.
+    
+
+#### 5\. Unauthorized & Prohibited Activities
+
+A Payments Developer and Payments Application will not engage in the activities listed below.
+
+1.  **Fees**. Refer to any fee, expense or other cost as a Shopify fee on its invoices to Merchants, or offer any low promotional or introductory rate without express written disclosure of the offer terms, including, but not limited to, the offer period and the increased Merchant rate following the expiration of the promotional or introductory offer.
+    
+2.  **Share access**. Redistribute, share, sell or generate revenue from sharing access with other developers to Payments Platform, without Shopify’s approval. The access provided to the Payments Apps APIs is to be used only by the Payments Developer to which access was granted.
+    
+3.  **Manipulate performance**. Create fake or fraudulent Merchants, orders or sales in order to portray a higher volume of traffic.
+    
+4.  **Use of vaulted or store credit cards**. Store payment credentials for any use other than for the transaction that the credentials were provided and for the transaction and services that Shopify has approved the Payments Application to conduct.
+    
+5.  **Privacy & Data Usage**. Use Merchant data in any way that is not explicitly and accurately disclosed to the Merchant. Shopify may request and Payments Developer will provide a description of the manner in which Payments Developer collects and uses Merchant data. Payments Developer must provide Shopify with any changes or updates to how they collect and use data in connection with their Payments Application. Payments Developer acknowledges that Shopify may share a summary of how data is collected and shared by the Payments Application in our communications with Shopify Merchants.
+    
+
+#### 6\. Termination, Suspension and Removal from the Payments Platform
+
+Shopify may at its sole discretion remove your Payments Application from Shopify’s public list of payment gateways, suspend or terminate your access to the Payments Platform and your participation in Shopify’s payments ecosystem, or take any other action that we deem necessary for the violation of any clause in this Section “Additional Terms Applicable to Payments Developers.” For the avoidance of doubt, this Section does not preclude the termination rights set forth in Section 4 “Termination” of this Agreement.
 
 Part D – Additional Terms Applicable to Shopify Experts, Experts Marketplace, and the Shopify Plus Partner Program
 ------------------------------------------------------------------------------------------------------------------
@@ -529,14 +668,14 @@ In addition to the terms applicable to all Referral Partners, as set out in [Par
 
 ### 2\. Experts Program
 
-1.  **Program**. A description of the Experts Program is available at: [https://help.shopify.com/partners/faq/experts](https://help.shopify.com/partners/faq/experts) (the **“Experts Program”**). Experts must follow all Shopify guidelines set out here to continue to access the Experts Program.
+1.  **Program**. A description of Experts Marketplace is available at: [https://help.shopify.com/partners/faq/experts](https://help.shopify.com/partners/faq/experts). Experts must follow all Shopify guidelines set out here, as well as [Experts Marketplace Guidelines](https://help.shopify.com/en/partners/selling-services/guidelines) to continue to access the Experts Marketplace.
     
 2.  **Revenue Sharing Plan**. The revenue sharing plan for Experts participating in Experts Marketplace will be as outlined at: [https://help.shopify.com/partners/getting-started/how-to-earn](https://help.shopify.com/partners/getting-started/how-to-earn) (the “Experts Marketplace Revenue Share”).
     
 
 ### 3\. Experts Marketplace
 
-1.  **Marketplace**. Experts may apply to be included in Experts Marketplace. Merchants may submit job requests in the Experts Marketplace (each a “Job Request”). Shopify will match Job Requests from Merchants with Experts. Shopify may suggest multiple Experts to a Merchant in connection with any Job Request.
+1.  **Marketplace**. Experts may apply to be included in Experts Marketplace. Merchants may contact Experts or submit job requests in the Experts Marketplace (each a “Job Request”). Shopify may match Job Requests from Merchants with Experts or suggest multiple Experts to a Merchant in connection with any Job Request. Experts may propose work (submit a proposal) to Merchants that can be accepted to create a job.
     
 2.  **Communications**. Expert acknowledges and agrees that Shopify receives and can review all communications exchanged via the Experts Marketplace or in any reply emails that originate within Experts Marketplace (directly or indirectly) between Expert and Merchant. As a participant in Experts Marketplace, Expert consents to being contacted by Merchants at the email address provided by Expert to Shopify.
     
@@ -544,11 +683,9 @@ In addition to the terms applicable to all Referral Partners, as set out in [Par
     
 4.  **Billing**. All Experts must use the Partner invoicing system embedded within Experts Marketplace to charge Merchants for Job Requests unless otherwise agreed to by Shopify in writing.
     
-5.  **Taxes**. Expert is responsible for all applicable Taxes that arise from or as a result of: (a) payment of fees from Merchant to Expert; and (b) the Experts Marketplace Revenue Share payable to Shopify. Taxes collected on your Experts Marketplace Revenue Share by Shopify are based on Expert’s location. If you are exempt from payment of such Taxes, you must provide us with an original certificate that satisfies applicable legal requirements attesting to tax-exempt status. Tax exemption will only apply from and after the date we receive such certificate. If you are not charged taxes by Shopify, you are responsible for determining if taxes are payable, and if so, self-remitting Taxes to the appropriate tax authorities in your jurisdiction.
+5.  **Audits**. Shopify will have the right to appoint an independent auditor, under appropriate non-disclosure conditions, to audit Expert’s records to confirm Expert’s compliance with this Agreement. If such audit reveals non-compliance by Expert with the terms and conditions of this Agreement the independent auditor appointed by Shopify will provide Shopify and Expert with a report (along with supporting documentation) indicating the amount by which Expert has overstated or understated the payments due by Expert to Shopify and any other failures by Expert to fulfill its obligations under the Agreement. Prompt adjustment will be made by the proper Party to compensate for any overpayments or underpayments disclosed by any such audit. Shopify will bear all of the costs of any such audit, unless such audit reveals underpayment by, or overpayment to, Expert by more than five percent (5%) for the audited period, in which case, Expert will reimburse Shopify for all of the reasonable costs of such audit. In addition to the foregoing audit rights, Shopify will also have the right to use the capabilities of the Service to confirm the revenue associated with Job Requests performed by the Expert.
     
-6.  **Audits**. Shopify will have the right to appoint an independent auditor, under appropriate non-disclosure conditions, to audit Expert’s records to confirm Expert’s compliance with this Agreement. If such audit reveals non-compliance by Expert with the terms and conditions of this Agreement the independent auditor appointed by Shopify will provide Shopify and Expert with a report (along with supporting documentation) indicating the amount by which Expert has overstated or understated the payments due by Expert to Shopify and any other failures by Expert to fulfill its obligations under the Agreement. Prompt adjustment will be made by the proper Party to compensate for any overpayments or underpayments disclosed by any such audit. Shopify will bear all of the costs of any such audit, unless such audit reveals underpayment by, or overpayment to, Expert by more than five percent (5%) for the audited period, in which case, Expert will reimburse Shopify for all of the reasonable costs of such audit. In addition to the foregoing audit rights, Shopify will also have the right to use the capabilities of the Service to confirm the revenue associated with Job Requests performed by the Expert.
-    
-7.  **Reviews**. Merchants are able to submit reviews and ratings on their experience with an Expert. An Expert’s rating is calculated based on reviews posted by Merchants. Experts may not solicit or permit reviews that are fake, inaccurate, irrelevant, misleading, being used improperly for commercial gain, posted in exchange for a financial or other gain, posted multiple times (whether from the same or more than one account), misleading as to the reviewer's identity or their connection to the Expert being reviewed, or reviews that contain or link to prohibited or illegal content. Reviews are meant to be unbiased, useful and trustworthy. Shopify reserves the right to take any action it deems necessary in respect of an Expert engaged in any of this behaviour, including the right (but not the obligation) to remove or edit Merchant reviews.
+6.  **Reviews**. Merchants are able to submit reviews and ratings on their experience with an Expert. An Expert’s rating is calculated based on reviews posted by Merchants. Experts may not solicit or permit reviews that are fake, inaccurate, irrelevant, misleading, being used improperly for commercial gain, posted in exchange for a financial or other gain, posted multiple times (whether from the same or more than one account), misleading as to the reviewer's identity or their connection to the Expert being reviewed, or reviews that contain or link to prohibited or illegal content. Reviews are meant to be unbiased, useful and trustworthy. Shopify reserves the right to take any action it deems necessary in respect of an Expert engaged in any of this behaviour, including the right (but not the obligation) to remove or edit Merchant reviews.
     
 
 ### 4\. Plus Partner Program
@@ -594,4 +731,4 @@ In addition to the terms applicable to Developers elsewhere in this Agreement, t
 
 [Create your free partner account today](https://partners.shopify.com/signup)
 
-Last updated January 1, 2021
+Last updated August 28, 2023
