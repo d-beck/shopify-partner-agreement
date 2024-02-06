@@ -27,7 +27,7 @@ Unless defined elsewhere in the Agreement, capitalized terms set out in the Agre
 
 **“Experts Directory”** means Shopify’s directory of Experts which allows Merchants to browse and contact Experts.
 
-**“Experts Marketplace”** means Shopify’s program for Experts that surfaces Expert profiles on [Experts Marketplace](https://experts.shopify.com/) and may match enrolled Experts with Merchants seeking assistance with their business.
+**“Experts Marketplace”** means Shopify’s program for Experts that surfaces Expert profiles on [Experts Marketplace](https://www.shopify.com/partners/directory) and may match enrolled Experts with Merchants seeking assistance with their business.
 
 **“Merchant”** means an individual or business that uses the Service to sell products or services.
 
@@ -59,7 +59,7 @@ Unless defined elsewhere in the Agreement, capitalized terms set out in the Agre
     
     e. a **“Payments Developer”** develops an Application using the Shopify API to enable a payment system for Merchants to use with the Service. An Application developed by a Payments Developer is a **“Payments Application”**.
     
-3.  An **“Expert”** is a VAP who has been accepted by Shopify into the [Experts Marketplace](https://experts.shopify.com), and can publish a profile offering services to Merchants, or is listed as a VAP within the Experts Directory.
+3.  An **“Expert”** is a VAP who has been accepted by Shopify into the [Experts Marketplace](https://www.shopify.com/partners/directory), and can publish a profile offering services to Merchants, or is listed as a VAP within the Experts Directory.
     
 4.  A **“Plus Partner”** is a Partner who has met the Shopify Plus Partner criteria and has been accepted by Shopify into the [Shopify Plus Partner Program](https://www.shopify.com/plus/partners), has signed a Plus Partner Program addendum, and is listed on the [shopify.com/plus/partners](https://www.shopify.com/plus/partners).
     
@@ -89,7 +89,7 @@ Unless defined elsewhere in the Agreement, capitalized terms set out in the Agre
 
 A Revenue Generating Activity will be attributed to Partner on the date the Merchant makes the initial payment of subscription fees for the relevant Merchant Store. For more information regarding Revenue Generating Activities, please refer to [https://help.shopify.com/partners/getting-started/how-to-earn](https://help.shopify.com/partners/getting-started/how-to-earn).
 
-**“Service”** means the Shopify hosted commerce platform available via [www.shopify.com](https://www.shopify.com) and any associated websites, products or services offered by Shopify.
+**“Service”** means the Shopify hosted commerce platform available via [www.shopify.com](https://www.shopify.com/) and any associated websites, products or services offered by Shopify.
 
 **“Sales Channel SDK”** means the Shopify APIs that are required by Channel Developer to develop the Channel Application. For the avoidance of doubt, the Sales Channel SDK is deemed to be part of the Shopify API, and access to and use of the Sales Channel SDK is subject to the Shopify API Terms.
 
@@ -501,25 +501,23 @@ Notwithstanding Section 5.3 of Part A, Theme Developers may use the Shopify Trad
 
 1.  The **“App Plan”** is a revenue sharing plan that allocates revenue between Shopify and an App Developer for a Public Application.
     
-    1.  **For registered App Developers, effective August 1, 2021**. Unless otherwise indicated in this Agreement, in any Additional Terms, agreed to by Shopify in writing or required by Shopify from time to time, the App Plan will apply as follows:
+    A. **For App Developers that have registered in accordance with the requirements set out by Shopify**. Unless otherwise indicated in this Agreement, in any Additional Terms, agreed to by Shopify in writing or required by Shopify from time to time, the App Plan will apply as follows:
+    
+    1.  An App Developer owes Shopify fifteen percent (15%) of the total revenues from the sale of, subscription to or charges relating to or passing through the App Developer’s Public Applications.
+
+    2.  For the purposes of this Section C.2.2.1.A:
         
-        1.  An App Developer owes Shopify, per calendar year, (a) zero percent (0%) of the first USD $1 million of the total revenues from the sale of, subscription to or charges relating to the App Developer’s Public Applications (**"USD $1 million threshold"**), and (b) fifteen percent (15%) of any such revenues exceeding the USD $1 million threshold.
-        2.  This App Plan applies to App Developers that have registered in accordance with the requirements set out by Shopify.
-        3.  For the purposes of this Section C.2.2.1.A:
-            
-            (a) if an App Developer has more than one Associated Developer Account, the USD $1 million threshold will be calculated based on the total revenues from the sale of, subscription to, or charges relating to all Public Applications of the App Developer and all Associated Developer Accounts;
-            
-            (b) the calendar year resets annually at 00:00 ET on January 1, regardless of an App Developer’s time zone; and
-            
-            (c) any gross App revenues for a Partner Account will be set to USD $0.00 upon completion of App Store registration and on January 1 of each subsequent calendar year.
-            
-        4.  **Fees**. Unless otherwise agreed to in writing by Shopify:
-            
-            (a) each Partner Account is subject to a one-time, non-refundable USD $99 App Store Registration Fee upon submission for registration under this Section C.2.2.1.A; and
-            
-            (b) any Public Application that is accepted by Shopify for sale or distribution through the Shopify App Store is subject to a 2.9% Processing Fee.
-            
-    2.  **For App Developers not covered under Section C.2.2.1.A**. Unless otherwise indicated in this Agreement or agreed to by Shopify in writing, under the App Plan, an App Developer is entitled to eighty percent (80%) of the total revenues from the sale of, subscription to or charges relating to the Public Application, with Shopify being entitled to the remaining twenty percent (20%).
+        (a) if, in the previous calendar year, an App Developer (1) earned less than USD $20 million in total revenues through the Shopify App Store and (2) together with its affiliates, earned less than USD $100 million in gross company revenue, the App Developer will owe Shopify zero percent (0%) of the first USD $1 million of the revenues set forth in the preceding section.
+        
+        (b) if an App Developer has more than one Associated Developer Account, the USD $20 million threshold set forth in subsection (a)(1) above will be calculated based on the total revenues from the sale of, subscription to, or charges relating to or passing through all Public Applications of the App Developer and all Associated Developer Accounts;
+        
+        (c) the calendar year resets annually at 00:00 ET on January 1, regardless of an App Developer’s time zone; and
+        
+        (d) any gross App revenues for a Partner Account will be set to USD $0.00 upon completion of App Store registration and on January 1 of each subsequent calendar year.
+        
+    3.  **Fees**. Unless otherwise agreed to in writing by Shopify: (a) each Partner Account is subject to a one-time, non-refundable USD $19 App Store Registration Fee upon submission for registration under this Section C.2.2.1.A; and (b) any Public Application that is accepted by Shopify for sale or distribution through the Shopify App Store is subject to a 2.9% Processing Fee.
+        
+    B. **For App Developers not covered under Section C.2.2.1.A**. Unless otherwise indicated in this Agreement or agreed to by Shopify in writing, under the App Plan, an App Developer is entitled to eighty percent (80%) of the total revenues from the sale of, subscription to or charges relating to the Public Application, with Shopify being entitled to the remaining twenty percent (20%)
         
 
 #### 3\. Additional Shopify Trademark Use Rights for App Developers
@@ -731,4 +729,4 @@ In addition to the terms applicable to Developers elsewhere in this Agreement, t
 
 [Create your free partner account today](https://partners.shopify.com/signup)
 
-Last updated August 28, 2023
+Last updated December 30, 2023
